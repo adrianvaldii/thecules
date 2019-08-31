@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Cules</string>
+    <string name="title_activity_tentang_kita">About Me</string>
+    <string name="valdi_adrian_abrar">Valdi Adrian Abrar</string>
+    <string name="valdiadrian_gmail_com">valdiadrian@gmail.com</string>
+    <string name="birth_date">Birth date</string>
+    <string name="position">position</string>
+    <string name="name">name</string>
+    <string name="no">no</string>
+    <string name="title_activity_detail">Detail Player</string>
+</resources>
